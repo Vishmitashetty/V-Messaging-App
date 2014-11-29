@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\bin\Debug\Bulk sms.exe
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\bin\Debug\Bulk sms.pdb
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\obj\x86\Debug\Bulk_sms.Form1.resources
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\obj\x86\Debug\Bulk_sms.Properties.Resources.resources
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\obj\x86\Debug\Bulk sms.exe
+C:\Users\admin\Desktop\Bulk sms\Bulk sms\obj\x86\Debug\Bulk sms.pdb
